@@ -6,4 +6,5 @@
 ---
 ## PROJECT OVERVIEW
 This project simulates a real-world HR analytics workflow, starting from a messy raw employee dataset and ending with a decision-ready dashboard. The objective is to transform raw, inconsistent dataset into a trustworthy, analysis ready dataset, explore employee demographics, hiring patterns, tenure and turnover rate, as well as the geographical impact to generate insights that can support the organization's management in making well-informed decisions.
----
+_______________________________________________________________________
+
